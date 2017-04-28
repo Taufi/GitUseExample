@@ -22,7 +22,7 @@ class ViewController: UIViewController {
 
   @IBAction func buttonClicked(_ sender: Any) {
     
-    print("Dies ist ein Git Lehrgang")
+    print("Faeddisch")
   }
 
 }
